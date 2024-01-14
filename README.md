@@ -1,2 +1,2 @@
 # IBMdatasciencecert
-materials for the IBM Data Science certification
+materials for IBM data science certification course 1
